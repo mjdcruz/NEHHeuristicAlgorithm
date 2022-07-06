@@ -38,3 +38,5 @@ Methods:
     bestJobSequence: Takes in the setup calculated  with runNEH and recursively finds the optimal job order sequence
     sequenceTimes: Takes in process times data and a sequence then generated a new dataset of process times in the order of the given sequence
     insertElement: Inserts an element into an array (used to create permutations)
+    
+TaliardTestData - this file includes all of the execution times for each machine per each job and is used as the input data for experimentation
